@@ -1,2 +1,2 @@
 # Genetic_Algorithms_PhaseThree
-Using Random Algorithm
+Using Genetic Algorithm
